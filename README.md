@@ -1,0 +1,2 @@
+# CmakeTemplate
+Cross Platform C++
